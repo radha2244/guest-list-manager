@@ -1,34 +1,34 @@
-# 📝 Guest List Manager
+#  Guest List Manager
 
 A simple command-line Python application to manage a guest list for an event. It allows users to add, view, delete, update, sort, and search guests interactively.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Add a new guest  
-- 📃 View all guests  
-- ❌ Delete guest by name or position  
-- 🔍 Search for a guest  
-- ✏️ Update a guest’s name  
-- 📊 Total number of guests  
-- 🔠 Sort guests alphabetically  
-- 🚪 Quit the application
+-  Add a new guest  
+-  View all guests  
+-  Delete guest by name or position  
+-  Search for a guest  
+-  Update a guest’s name  
+-  Total number of guests  
+-  Sort guests alphabetically  
+-  Quit the application
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 Requirements
+###  Requirements
 
 - Python 3.x
 
-### 🛠️ How to Run
+###  How to Run
 
 ```bash
 python guest_list_manager.py
 ```
-### 📸 Demo
+###  Demo
 ```bash
 Welcome to the Guest List Manager App
 1. Add a New Guest
@@ -231,7 +231,7 @@ Welcome to the Guest List Manager App
 Enter your choice [1 to 8]: 8
 Thank you for using our Application
 ```
-## 🧠 Code Overview
+##  Code Overview
 
 - **Data Storage**: Python list `guest_list[]`
 - **Menu Interface**: Infinite `while` loop
@@ -240,7 +240,7 @@ Thank you for using our Application
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Save guest list to a file (CSV or JSON)
 - Load guest list from a saved file
